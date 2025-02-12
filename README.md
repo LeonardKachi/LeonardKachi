@@ -14,7 +14,7 @@
 ---
 
 ## 🎯 What I'm Currently Working On  
-🔹 Preparing for *CompTIA Security+, **AWS Security Specialty, and **Cloud Security Architect certifications*.  
+🔹 Preparing for *CompTIA Security+*, **AWS Security Specialty**, and *Cloud Security Architect certifications*.  
 🔹 Exploring *AI integration in cybersecurity*.  
 🔹 Enhancing my expertise in *cloud security best practices* and *AWS security solutions*.  
 
