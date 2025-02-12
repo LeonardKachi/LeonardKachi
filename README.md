@@ -29,8 +29,8 @@
 
 ## 📬 How to Reach Me  
 📧 *Email*: Henryleo480@gmail.com  
-🔗 *LinkedIn*:(https://www.linkedin.com/in/onyedikachi-obidiegwu-17068b238).
-🐦 *Twitter/X*: [@LeonardKachi] (https://x.com/leonard_kachi). 
+🔗 *LinkedIn*:[Onyedikachi Obidiegwu](https://www.linkedin.com/in/onyedikachi-obidiegwu-17068b238).
+🐦 *Twitter/X*: [@LeonardKachi](https://x.com/leonard_kachi). 
 🌐 *GitHub*: [github.com/LeonadKachi](https://github.com/LeonadKachi)  
 
 ---
