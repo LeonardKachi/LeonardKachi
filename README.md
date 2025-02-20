@@ -32,7 +32,7 @@
 🔗 *LinkedIn*:[Onyedikachi Obidiegwu](https://www.linkedin.com/in/onyedikachi-obidiegwu-17068b238).
 🐦 *Twitter/X*: [@LeonardKachi](https://x.com/leonard_kachi). 
 🌐 *GitHub*: [github.com/LeonadKachi](https://github.com/LeonadKachi)  
-
+🌐 *website*: [Obidiegwu Onyedikachi](https://leonardkachi.github.io/personal-website/)
 ---
 
 ## 📌 Fun Fact  
