@@ -56,10 +56,10 @@ I am a **Cloud Security Engineer & AI Researcher** dedicated to securing cloud e
 ---
 
 ### 🎯 Career Goals
-✅ **Cloud Security Architect** specialization
-✅ **AI-integrated security research** for advanced threat detection
-✅ **Open-source security automation** contributions
-✅ **Development of AI-powered threat intelligence platforms**
+✅ **Cloud Security Architect** specialization  
+✅ **AI-integrated security research** for advanced threat detection  
+✅ **Open-source security automation** contributions  
+✅ **Development of AI-powered threat intelligence platforms**  
 
 ---
 
