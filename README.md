@@ -68,4 +68,15 @@ I am a **Cloud Security Engineer & AI Researcher** dedicated to securing cloud e
 💼 **GitHub:** [github.com/Leonardkachi](https://github.com/LeonardKachi)  
 ✍️ **Dev.to:** .[Dev.to.com/Leonardkachi](https://dev.to/leonardkachi)
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeonardKachi&show_icons=true&theme=dark&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LeonardKachi&theme=dark)
+
+## 📌 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardKachi&layout=compact&theme=dark)
+
+
 Let's innovate and secure the future together! 🚀
