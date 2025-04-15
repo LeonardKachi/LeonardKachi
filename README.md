@@ -66,7 +66,8 @@ I am a **Cloud Security Engineer & AI Researcher** dedicated to securing cloud e
 ### 🤝 Connect with Me
 🔗 **LinkedIn:** [linkedin.com/in/onyedikachi-obidiegwu](https://www.linkedin.com/in/onyedikachi-obidiegwu-17068b238)  
 💼 **GitHub:** [github.com/Leonardkachi](https://github.com/LeonardKachi)  
-✍️ **Dev.to:** .[Dev.to.com/Leonardkachi](https://dev.to/leonardkachi)
+✍️ **Dev.to:** [Dev.to.com/Leonardkachi](https://dev.to/leonardkachi)   
+💼 **Porfolio** [HenryLeo](https://leonardkachi.github.io/Portfolio-website/)   
 
 ## 📊 GitHub Stats
 
