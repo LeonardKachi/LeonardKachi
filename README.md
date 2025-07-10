@@ -4,7 +4,7 @@ I am a **Cloud Security Engineer & AI Researcher** dedicated to securing cloud e
 
 ---
 
-### 🚀 Professional Overview
+### Professional Overview
 - **Cloud Security & Compliance:** Zero Trust, IAM, SIEM, SOAR, Infrastructure as Code (IaC)
 - **Threat Intelligence & Incident Response:** Penetration Testing, Anomaly Detection, Automated Security Workflows
 - **DevSecOps & Cloud Security:** AWS, Azure, Terraform, Kubernetes, Ansible
@@ -13,17 +13,17 @@ I am a **Cloud Security Engineer & AI Researcher** dedicated to securing cloud e
 
 ---
 
-### 📌 Featured Projects
+### Featured Projects
 - **Drauig BMS:** AI-driven border management system for enhanced security and efficiency
 - **Zero Trust Cloud Security:** Implementing next-gen cloud security models
 - **AI-Powered Anomaly Detection:** Using machine learning for fraud detection in financial transactions
 - **AI Trading Bot:** Developing an AI-driven trading system integrating sentiment and fundamental analysis
 
-📌 Explore more projects on my [GitHub repositories](https://github.com/LeonardKachi?tab=repositories) 🔗
+ Explore more projects on my [GitHub repositories](https://github.com/LeonardKachi?tab=repositories) 🔗
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 #### **Languages & Tools:**
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
@@ -55,27 +55,27 @@ I am a **Cloud Security Engineer & AI Researcher** dedicated to securing cloud e
 
 ---
 
-### 🎯 Career Goals
-✅ **Cloud Security Architect** specialization  
-✅ **AI-integrated security research** for advanced threat detection  
-✅ **Open-source security automation** contributions  
-✅ **Development of AI-powered threat intelligence platforms**  
+### Career Goals
+ **Cloud Security Architect** specialization  
+ **AI-integrated security research** for advanced threat detection  
+ **Open-source security automation** contributions  
+ **Development of AI-powered threat intelligence platforms**  
 
 ---
 
-### 🤝 Connect with Me
-🔗 **LinkedIn:** [Click](https://www.linkedin.com/in/onyedikachi-obidiegwu-17068b238)  
-💼 **GitHub:** [Click](https://github.com/LeonardKachi)  
-✍️ **Dev.to:** [Click](https://dev.to/leonardkachi)   
-💼 **Porfolio** [Click](https://leonardkachi.github.io/Portfolio-website/)   
+### Connect with Me
+ **LinkedIn:** [Click](https://www.linkedin.com/in/onyedikachi-obidiegwu-17068b238)  
+ **GitHub:** [Click](https://github.com/LeonardKachi)  
+ **Dev.to:** [Click](https://dev.to/leonardkachi)   
+ **Porfolio** [Click](https://leonardkachi.github.io/Portfolio-website/)   
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeonardKachi&show_icons=true&theme=dark&count_private=true)
 
-## 📌 Top Languages
+## Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardKachi&layout=compact&theme=dark)
 
 
-Let's innovate and secure the future together! 🚀
+Let's innovate and secure the future together!
