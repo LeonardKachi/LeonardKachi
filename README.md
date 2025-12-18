@@ -5,6 +5,7 @@ I am a **Cloud Security Engineer & AI Researcher** dedicated to securing cloud e
 ---
 
 ### Professional Overview
+- **Cloud Architecture:** AWS, VPC, CloudFormation, CI/CD, Infrastructure as Code (IaC)
 - **Cloud Security & Compliance:** Zero Trust, IAM, SIEM, SOAR, Infrastructure as Code (IaC)
 - **Threat Intelligence & Incident Response:** Penetration Testing, Anomaly Detection, Automated Security Workflows
 - **DevSecOps & Cloud Security:** AWS, Azure, Terraform, Kubernetes, Ansible
