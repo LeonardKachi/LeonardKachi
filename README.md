@@ -65,18 +65,9 @@ I am a **Cloud Security Engineer & AI Researcher** dedicated to securing cloud e
 ---
 
 ### Connect with Me
- **LinkedIn:** [Click](https://www.linkedin.com/in/onyedikachi-obidiegwu-17068b238)  
- **GitHub:** [Click](https://github.com/LeonardKachi)  
- **Dev.to:** [Click](https://dev.to/leonardkachi)   
- **Porfolio** [Click](https://leonardkachi.github.io/Portfolio-website/)   
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeonardKachi&show_icons=true&theme=dark&count_private=true)
-
-## Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardKachi&layout=compact&theme=dark)
-
+ [**LinkedIn**](https://www.linkedin.com/in/onyedikachi-obidiegwu-17068b238)
+ [**GitHub**](https://github.com/LeonardKachi)
+ [**Dev.to**](https://dev.to/leonardkachi)
+ [**Porfolio**](https://leonardkachi.github.io/Portfolio-website/)
 
 Let's innovate and secure the future together!
