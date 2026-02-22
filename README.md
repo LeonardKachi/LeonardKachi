@@ -1,4 +1,4 @@
-## 👋 Welcome to My GitHub Profile
+## Welcome to My GitHub Profile
 
 I am a **Cloud Security Engineer & AI Researcher** dedicated to securing cloud environments, automating security operations, and leveraging AI for cybersecurity and financial analysis. With a strong foundation in security architecture and AI-driven threat detection, I focus on building scalable, intelligent, and resilient security solutions.
 
@@ -20,7 +20,7 @@ I am a **Cloud Security Engineer & AI Researcher** dedicated to securing cloud e
 - **AI-Powered Anomaly Detection:** Using machine learning for fraud detection in financial transactions
 - **AI Trading Bot:** Developing an AI-driven trading system integrating sentiment and fundamental analysis
 
- Explore more projects on my [GitHub repositories](https://github.com/LeonardKachi?tab=repositories) 🔗
+ Explore more projects on my [GitHub repositories](https://github.com/LeonardKachi?tab=repositories)  
 
 ---
 
