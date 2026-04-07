@@ -21,7 +21,7 @@ I am a **Cloud Security Engineer & AI Researcher** dedicated to securing cloud e
 - **AI Trading Bot:** Developing an AI-driven trading system integrating sentiment and fundamental analysis
 - **flask-cicd-api** Built a Flask REST API with proper endpoints, error handling and structured logging. Containerized with Docker running on gunicorn in production mode. Automated Cl pipeline on GitHub Actions that tests and builds on every push. Deployed live on AWS App Runner pulling from ECR with IAM authentication. Deployed live on Azure Container Apps pulling from ACR
  
-Explore more projects on my [GitHub Repositories](https://github.com/LeonardKachi?tab=repositories)  
+Explore more projects on my [**GitHub Repositories**](https://github.com/LeonardKachi?tab=repositories)  
 
 ---
 
