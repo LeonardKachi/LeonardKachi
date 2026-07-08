@@ -15,11 +15,11 @@ I am a **Cloud Security Engineer & AI Researcher** dedicated to securing cloud e
 ---
 
 ### Featured Projects
-- **Drauig BMS:** AI-driven border management system for enhanced security and efficiency
-- **Zero Trust Cloud Security:** Implementing next-gen cloud security models
-- **AI-Powered Anomaly Detection:** Using machine learning for fraud detection in financial transactions
-- **AI Trading Bot:** Developing an AI-driven trading system integrating sentiment and fundamental analysis
-- **flask-cicd-api** Built a Flask REST API with proper endpoints, error handling and structured logging. Containerized with Docker running on gunicorn in production mode. Automated Cl pipeline on GitHub Actions that tests and builds on every push. Deployed live on AWS App Runner pulling from ECR with IAM authentication. Deployed live on Azure Container Apps pulling from ACR
+- **Containerized WebApp Game:** A full web-based 2048 game inside a Docker container using an Nginx base image.   
+- **AWS Three Tier Web Architecture:** a hands-on walk through of a three-tier web architecture in AWS. Were i created the necessary network, security, app, and database components and configurations in order to run this architecture in an available and scalable manner.   
+- **AWS Security Monitor:** A production-grade, event-driven AWS security monitoring platform built entirely with Infrastructure as Code. It watches your AWS account in near real time, detects high-risk IAM and network changes the moment they happen, scores their severity using context-aware logic (not flat event mapping), and alerts you by email within seconds. backed by a live web dashboard for investigation.
+- **Cloud Resource Map:** Multi-cloud resource visibility tool for AWS, Azure, and GCP. See every service running in your account, what it costs, and what region it lives in from a single dashboard. Built with FastAPI, Boto3, and Docker. Beginner friendly.   
+- **flask-cicd-api** Built a Flask REST API with proper endpoints, error handling and structured logging. Containerized with Docker running on gunicorn in production mode. Automated Cl pipeline on GitHub Actions that tests and builds on every push. Deployed live on AWS App Runner pulling from ECR with IAM authentication. Deployed live on Azure Container Apps pulling from ACR.   
  
 Explore more projects on my [**GitHub Repositories**](https://github.com/LeonardKachi?tab=repositories)  
 
