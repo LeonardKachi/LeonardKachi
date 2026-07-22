@@ -71,9 +71,9 @@ Explore more projects on my [**GitHub Repositories**](https://github.com/Leonard
 ---
 
 ### Connect with Me
- [**LinkedIn**](https://www.linkedin.com/in/onyedikachi-obidiegwu-17068b238)
- [**GitHub**](https://github.com/LeonardKachi)
- [**Dev.to**](https://dev.to/leonardkachi)
- [**Porfolio**](https://leonardkachi.github.io/Portfolio-website/)
+ [**LinkedIn**](https://www.linkedin.com/in/onyedikachi-obidiegwu)  
+ [**GitHub**](https://github.com/LeonardKachi)  
+ [**Dev.to**](https://dev.to/leonardkachi)  
+ [**Porfolio**](https://leonardkachi.github.io/Portfolio-website/)  
 
 Let's innovate and secure the future together!
