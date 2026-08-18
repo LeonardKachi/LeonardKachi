@@ -1,79 +1,107 @@
 ## Welcome to My GitHub Profile
 
-I am a **Cloud Security Engineer & AI Researcher** dedicated to securing cloud environments, automating security operations, and leveraging AI for cybersecurity and financial analysis. With a strong foundation in security architecture and AI-driven threat detection, I focus on building scalable, intelligent, and resilient security solutions.
+I design, secure, and automate cloud infrastructure with a focus on **AWS, Kubernetes, Infrastructure as Code, CI/CD, and cloud security automation**.
+
+My work sits at the intersection of **cloud engineering and security engineering**: building infrastructure, embedding security controls into delivery pipelines, implementing identity and access controls, automating security monitoring, and improving visibility across cloud environments.
+
+## Core Engineering Areas
+
+- **Cloud Security:** AWS security architecture, IAM, least privilege, Zero Trust, threat detection, incident response
+- **Cloud Infrastructure:** AWS, VPC, EC2, S3, Lambda, multi-account and multi-region architectures
+- **Infrastructure as Code:** Terraform, CloudFormation, Ansible
+- **Kubernetes & Containers:** Kubernetes, Amazon EKS, Docker, workload and cluster security
+- **DevSecOps:** CI/CD, GitHub Actions, Jenkins, security automation, infrastructure security
+- **Security Operations:** CloudTrail, GuardDuty, Security Hub, AWS Config, SIEM, SOAR
+- **Observability:** Prometheus, Grafana, ELK, CloudWatch
+- **Automation:** Python, Bash, event-driven security workflows
 
 ---
 
-### Professional Overview
-- **Cloud Architecture:** AWS, VPC, CloudFormation, CI/CD, Infrastructure as Code (IaC)
-- **Cloud Security & Compliance:** Zero Trust, IAM, SIEM, SOAR, Infrastructure as Code (IaC)
-- **Threat Intelligence & Incident Response:** Penetration Testing, Anomaly Detection, Automated Security Workflows
-- **DevSecOps & Cloud Security:** AWS, Azure, Terraform, Kubernetes, Ansible
-- **AI & Machine Learning:** AI-driven fraud detection, sentiment analysis, and security automation
-- **Financial Technology:** AI-powered trading strategies for stock and forex markets
+## Featured Projects
+
+### [AWS Security Monitor](https://github.com/LeonardKachi/AWS-Security-Monitor)
+
+Event-driven AWS security monitoring and automated response platform built with Infrastructure as Code. Detects high-risk IAM and network changes, evaluates event severity using contextual logic, generates near-real-time alerts, and provides a web dashboard for investigation.
+
+**Focus:** AWS Security | Security Automation | Terraform | Python | CloudTrail | IAM
+
+### [Cloud Resource Map](https://github.com/LeonardKachi/Cloud-Resource-Map)
+
+Multi-cloud infrastructure visibility platform for AWS, Azure, and GCP. Provides centralized visibility into cloud resources, services, regions, and associated costs through a unified dashboard.
+
+**Focus:** Cloud Infrastructure | Multi-Cloud | FastAPI | Boto3 | Docker
+
+### [flask-cicd-api](https://github.com/LeonardKachi/flask-cicd-api)
+
+Containerized Flask REST API with structured logging, automated testing, and CI/CD. Built and deployed across AWS App Runner and Azure Container Apps using container registries and IAM-based authentication.
+
+**Focus:** DevSecOps | CI/CD | Docker | AWS | Azure | GitHub Actions
 
 ---
 
-### Featured Projects
+## Tech Stack
 
-- [**Containerized WebApp Game**](https://github.com/LeonardKachi/Containerized-WebApp-2048-Game): A full web-based 2048 game inside a Docker container using an Nginx base image.
-- [**AWS Three Tier Web Architecture**](https://github.com/LeonardKachi/AWS-Three-Tier-Web-Architecture-Project): A hands-on walkthrough of a three-tier web architecture in AWS where I created the necessary network, security, app, and database components and configurations in order to run this architecture in an available and scalable manner.
-- [**AWS Security Monitor**](https://github.com/LeonardKachi/AWS-Security-Monitor): A production-grade, event-driven AWS security monitoring platform built entirely with Infrastructure as Code. It watches your AWS account in near real time, detects high-risk IAM and network changes the moment they happen, scores their severity using context-aware logic (not flat event mapping), and alerts you by email within seconds, backed by a live web dashboard for investigation.
-- [**Cloud Resource Map**](https://github.com/LeonardKachi/Cloud-Resource-Map): Multi-cloud resource visibility tool for AWS, Azure, and GCP. See every service running in your account, what it costs, and what region it lives in from a single dashboard. Built with FastAPI, Boto3, and Docker. Beginner friendly.
-- [**flask-cicd-api**](https://github.com/LeonardKachi/flask-cicd-api): Built a Flask REST API with proper endpoints, error handling, and structured logging. Containerized with Docker running on gunicorn in production mode. Automated CI pipeline on GitHub Actions that tests and builds on every push. Deployed live on AWS App Runner pulling from ECR with IAM authentication and on Azure Container Apps pulling from ACR.
-- [**AI-Powered Threat Detection System**](https://github.com/LeonardKachi/ai-threat-detection-system): Designed a machine-learning-based threat detection framework for analyzing CloudTrail and VPC Flow Log data within AWS environments. Implemented data ingestion, preprocessing, model training, evaluation, and deployment workflows using AWS SageMaker, Kinesis, Lambda, and TensorFlow.
-- [**Serverless Book Recommendation API**](https://github.com/LeonardKachi/Next-Read): A lightweight, event-driven serverless API integrating Python, AWS Lambda, DynamoDB, and Redis caching to demonstrate optimized backend data fetching and API design.
+### Cloud & Infrastructure
 
----
-
-Explore more projects on my [**GitHub Repositories**](https://github.com/LeonardKachi?tab=repositories).  
-
----
-
-### Tech Stack
-#### **Languages & Tools:**
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-
-
-
-#### **Cloud & DevOps:**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+
+### Kubernetes & Containers
+
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Amazon EKS](https://img.shields.io/badge/Amazon%20EKS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-1E88E5?style=flat&logo=gitlab&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
 
+### DevSecOps & CI/CD
 
-#### **Security & Compliance:**
-![SIEM](https://img.shields.io/badge/SIEM-FF6F00?style=flat)
-![SOAR](https://img.shields.io/badge/SOAR-00BFFF?style=flat)
-![NIST](https://img.shields.io/badge/NIST-2F3C7E?style=flat)
-![ISO 27001](https://img.shields.io/badge/ISO%2027001-4B4B4B?style=flat)
-![SOC 2](https://img.shields.io/badge/SOC%202-0078D4?style=flat)
-![GDPR](https://img.shields.io/badge/GDPR-008ECC?style=flat)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white)
 
+### Security & Compliance
+
+![AWS IAM](https://img.shields.io/badge/AWS%20IAM-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![CloudTrail](https://img.shields.io/badge/CloudTrail-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![GuardDuty](https://img.shields.io/badge/GuardDuty-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![Security Hub](https://img.shields.io/badge/Security%20Hub-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![SIEM](https://img.shields.io/badge/SIEM-333333?style=flat)
+![SOAR](https://img.shields.io/badge/SOAR-333333?style=flat)
+
+### Observability
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![ELK](https://img.shields.io/badge/ELK-005571?style=flat)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+
+### Languages & Automation
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
 ---
 
-### Career Goals
- **Cloud Security Architect** specialization  
- **AI-integrated security research** for advanced threat detection  
- **Open-source security automation** contributions  
- **Development of AI-powered threat intelligence platforms**  
+## Engineering Interests
+
+I am focused on building **secure, automated, and resilient cloud platforms**, with particular interest in:
+
+- Cloud security architecture
+- DevSecOps and secure software delivery
+- Kubernetes and container security
+- Cloud detection and automated response
+- Infrastructure security and policy automation
+- Open-source security tooling
 
 ---
 
-### Connect with Me
- [**LinkedIn**](https://www.linkedin.com/in/onyedikachi-obidiegwu)  
- [**GitHub**](https://github.com/LeonardKachi)  
- [**Dev.to**](https://dev.to/leonardkachi)  
- [**Porfolio**](https://leonardkachi.github.io/Portfolio-website/)  
+## Connect
 
-Let's innovate and secure the future together!
+- [LinkedIn](https://www.linkedin.com/in/onyedikachi-obidiegwu)
+- [GitHub](https://github.com/LeonardKachi)
+- [Dev.to](https://dev.to/leonardkachi)
+- [Portfolio](https://www.leonardkachi.click)
