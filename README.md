@@ -19,6 +19,12 @@ My work sits at the intersection of **cloud engineering and security engineering
 
 ## Featured Projects
 
+### [AWS Secure Multi-Account Architecture](https://github.com/LeonardKachi/AWS-Secure-Multi-Account-Architecture)
+
+Security-focused AWS Organizations architecture demonstrating preventive governance across multiple AWS accounts using Service Control Policies (SCPs) and Terraform. Defines controls for CloudTrail tampering, KMS key disruption, security-service tampering, organization escape, and unapproved AWS regions, supported by threat modeling and security architecture documentation.
+
+**Focus:** AWS Organizations | Cloud Security | SCPs | Terraform | Security Architecture | Preventive Governance
+
 ### [AWS Security Monitor](https://github.com/LeonardKachi/AWS-Security-Monitor)
 
 Event-driven AWS security monitoring and automated response platform built with Infrastructure as Code. Detects high-risk IAM and network changes, evaluates event severity using contextual logic, generates near-real-time alerts, and provides a web dashboard for investigation.
