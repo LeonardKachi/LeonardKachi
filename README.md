@@ -19,7 +19,7 @@ My work sits at the intersection of **cloud engineering and security engineering
 
 ## Featured Projects
 
-### [Secure CI/CD pipeline for a containerized web app on AWS](https://github.com/LeonardKachi/AWS-Secure-Multi-Account-Architecture)
+### [Secure CI/CD pipeline for a containerized web app on AWS](https://github.com/LeonardKachi/CI-CD-DevSecOps-Pipeline-For-Containerized-WebApp)
 
 A fully automated delivery pipeline. A git push is picked up by Jenkins, which lints, builds, tests and scans a hardened container image, stores it in a private registry, and deploys it to AWS Fargate behind a load balancer. All infrastructure is built with Terraform, and every decision is made with security in mind.
 
