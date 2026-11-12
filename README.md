@@ -19,6 +19,12 @@ My work sits at the intersection of **cloud engineering and security engineering
 
 ## Featured Projects
 
+### [Secure CI/CD pipeline for a containerized web app on AWS](https://github.com/LeonardKachi/AWS-Secure-Multi-Account-Architecture)
+
+A fully automated delivery pipeline. A git push is picked up by Jenkins, which lints, builds, tests and scans a hardened container image, stores it in a private registry, and deploys it to AWS Fargate behind a load balancer. All infrastructure is built with Terraform, and every decision is made with security in mind.
+
+**Focus:** jenkins | terraform | aws | ecs-fargate | amazon-ecr | docker | trivy | cicd| devsecops| infrastructure-as-code, nginx
+
 ### [AWS Secure Multi-Account Architecture](https://github.com/LeonardKachi/AWS-Secure-Multi-Account-Architecture)
 
 Security-focused AWS Organizations architecture demonstrating preventive governance across multiple AWS accounts using Service Control Policies (SCPs) and Terraform. Defines controls for CloudTrail tampering, KMS key disruption, security-service tampering, organization escape, and unapproved AWS regions, supported by threat modeling and security architecture documentation.
