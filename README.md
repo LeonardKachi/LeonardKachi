@@ -23,7 +23,7 @@ My work sits at the intersection of **cloud engineering and security engineering
 
 A fully automated delivery pipeline. A git push is picked up by Jenkins, which lints, builds, tests and scans a hardened container image, stores it in a private registry, and deploys it to AWS Fargate behind a load balancer. All infrastructure is built with Terraform, and every decision is made with security in mind.
 
-**Focus:** jenkins | terraform | aws | ecs-fargate | amazon-ecr | docker | trivy | cicd| devsecops| infrastructure-as-code, nginx
+**Focus:** jenkins | terraform | aws | ecs-fargate | amazon-ecr | docker | trivy | cicd | devsecops | infrastructure-as-code | nginx
 
 ### [AWS Secure Multi-Account Architecture](https://github.com/LeonardKachi/AWS-Secure-Multi-Account-Architecture)
 
